@@ -1,5 +1,4 @@
 
-<h3 align="center">A passionate frontend developer from Sicily --> Catania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n0wherefast&label=Profile%20views&color=0e75b6&style=flat" alt="n0wherefast" /> </p>
 
