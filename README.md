@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n0wherefast" alt="n0wherefast" /></a> </p>
 
-- 🌱 I’m currently learning **from The Odin Project**
+- 🌱 I’m currently learning  **data analisys and AI**
 
 - 📫 How to reach me **ale170789@gmail.com**
 
